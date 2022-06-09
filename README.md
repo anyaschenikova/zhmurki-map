@@ -5,4 +5,4 @@ This project was created to show the places, where the movie "Zhmurki" (2005) wa
 
 It is too simple project, just for fun. You can break it and use the necessary information as you wanna.
 
-HB!!!!
+Link to check: https://anyaschenikova.github.io/zhmurki-map/
